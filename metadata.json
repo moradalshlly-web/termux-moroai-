@@ -1,0 +1,6 @@
+{
+  "name": "MOROAI",
+  "description": "منصة ذكاء اصطناعي مستقلة، عربية ومجانية بواجهة متطورة باللون الأزرق الملكي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
